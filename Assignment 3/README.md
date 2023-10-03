@@ -90,6 +90,8 @@ This is an example of how to list things you need to use the software and how to
 
 TBD
 
+Connect to the FANUC Robot Network and give the IP address in the script to the Drive_Path
+
 _For more examples, please refer to the [Documentation](https://uofi-cdacs.github.io/FANUC-Ethernet_IP_Drivers/documentation/html/)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
